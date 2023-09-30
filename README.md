@@ -1,8 +1,10 @@
-# React + Vite
+# Hello world!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is the direct link. Currently the "Send emails" functionality does not always work but it is in progress ;) 
 
-Currently, two official plugins are available:
+Enjoy!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://my-portfolio3d-gd37ps9d7-lekrikri.vercel.app/
+
+
+

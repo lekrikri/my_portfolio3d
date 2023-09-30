@@ -200,7 +200,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/lekrikri/basicom_3D",
+      source_code: "https://github.com/lekrikri/basicom_3D",
     },
     {
       name: "DTE Demo",
@@ -221,7 +221,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/lekrikri/Dte-demo",
+      source_code: "https://github.com/lekrikri/Dte-demo",
     },
     {
       name: "Mon Salon 3D ThreeJS",
@@ -242,7 +242,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code: "https://github.com/",
     },
   ];
   
