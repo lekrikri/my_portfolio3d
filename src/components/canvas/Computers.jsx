@@ -30,7 +30,6 @@ const Computers = ({ isMobile }) => {
           <primitive 
             object={computer.scene} 
    
-            
             position-y={-0.3}
             scale={isMobile ? 3.1 : 1.5}
             // position={isMobile ? [0, -3, -9.2] : [0, -3.25, -1.5]}
