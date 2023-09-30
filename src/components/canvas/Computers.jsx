@@ -1,8 +1,8 @@
 import { Suspense, useEffect, useState } from "react"
 import { Canvas } from "@react-three/fiber"
-import { ContactShadows, Environment, Float, Html, OrbitControls, Preload, PresentationControls, Text, useGLTF } from "@react-three/drei"
+import { ContactShadows, Environment, Float, OrbitControls, Preload, PresentationControls, useGLTF } from "@react-three/drei"
 import CanvasLoader from "../Loader";
-import { profil, screen } from "../../assets";
+// import { profil, screen } from "../../assets";
 
 
 const Computers = ({ isMobile }) => {
@@ -34,7 +34,7 @@ const Computers = ({ isMobile }) => {
             scale={isMobile ? 3.1 : 1.5}
             // position={isMobile ? [0, -3, -9.2] : [0, -3.25, -1.5]}
             >
-            <Html
+            {/* <Html
               transform
               occlude
               wrapperClass="htmlScreen"
@@ -44,7 +44,7 @@ const Computers = ({ isMobile }) => {
               
             >
               <iframe src={screen} />
-            </Html>
+            </Html> */}
           </primitive>
 
         </Float>
